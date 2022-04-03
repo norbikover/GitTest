@@ -5,7 +5,7 @@ i'm working on a change
 please do not touch this
 am lucrat si la main boys
 
-(Edy)
+(defapt nu edy a lucrat aici)
 am adaugat si eu
 
 (Norbi)
