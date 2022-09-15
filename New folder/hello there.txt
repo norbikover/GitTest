@@ -16,10 +16,12 @@ super Norbi
 mai adaug putin Networking
 
 
-(Laptop) ce zici de linia asta?
+
 
 
 (Pc) am adaugat movement
+
+(Pc) am adaugat mouse
 
 (Pc) work cred ca ii mai bine asa sincer aici 
 
